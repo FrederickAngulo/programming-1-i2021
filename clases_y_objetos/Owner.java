@@ -1,5 +1,8 @@
 /**
  * Dueño del perro
+ * 
+ * @author Sivana Hamer
+ * @version 19-04-2021
  */
 public class Owner{
     //Atributos
